@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @williamcuesta
-- 👀 I’m interested in learn maching learning
+- 👀 I’m interested in learn video games applications, maching learning and front.
 - 🌱 I’m currently learning javascript with full stack aplications.
 - 💞️ I’m looking to collaborate on python3 applications
 - 📫 How to reach me william09y@gmail.com
